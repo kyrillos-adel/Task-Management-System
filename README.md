@@ -43,7 +43,9 @@ This project is part of the ITI Full Stack Web Development using .NET ICC progra
 ### Steps to Run the Project
 1. **Clone the Repository**:
    - Download or clone the repository from GitHub:
-   sh```git clone https://github.com/kyrillos-adel/Task-Management-System.git```
+   sh```
+git clone https://github.com/kyrillos-adel/Task-Management-System.git```
+
 2. **Open the Project**:
    - Open the solution file (`TaskManagementSystem.sln`) in Visual Studio.
 3. **Set Up the Database**:
